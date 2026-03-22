@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   
-  <title>真空球形狗</title>
+  <title>两害相权 | 真空球形狗</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   
     <link rel="shortcut icon" href="/favicon.png">
@@ -43,9 +43,7 @@
 </header>
 
       <div class="outer">
-        <section id="main">
-  
-    <article id="post-evilforevil" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+        <section id="main"><article id="post-evilforevil" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
     <a href="/loredan-dogbrother-3" class="article-date">
   <time class="dt-published" datetime="2023-12-27T15:00:00.000Z" itemprop="datePublished">2023-12-28</time>
@@ -62,8 +60,8 @@
       <header class="article-header">
         
   
-    <h1 itemprop="name">
-      <a class="p-name article-title" href="/loredan-dogbrother-3">两害相权</a>
+    <h1 class="p-name article-title" itemprop="headline name">
+      两害相权
     </h1>
   
 
@@ -260,11 +258,10 @@
     </footer>
   </div>
   
+    
+  
 </article>
 
-
-
-  
 
 </section>
         <aside id="sidebar">
